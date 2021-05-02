@@ -1,6 +1,7 @@
 body{
     padding-top: 800px;
     margin: 0;
+    text-align: center;
 }
 .profile{
     width: 175px;
@@ -85,4 +86,10 @@ p {
 }
 .links:hover{
     background-color: firebrick;
+}
+html{
+    scroll-behavior: smooth;
+}
+.article:hover{
+    color: crimson;
 }
